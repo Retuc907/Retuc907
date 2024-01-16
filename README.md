@@ -27,9 +27,15 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Ps" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Cn" width="40" height="40"/>&nbsp;
      
-    </div>
-
   
+
+  <div align="left">
+  <h3>Languages: </h3>
+    <div>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="PY" width="40" height="40"/>&nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+          
+
 
 
 
