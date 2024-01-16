@@ -4,7 +4,7 @@
   </h3>
 </div>
 <!--
-**Retuc907/Retuc907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ---
 ### About me:
 
