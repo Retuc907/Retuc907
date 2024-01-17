@@ -23,7 +23,7 @@
     <div>
           <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg?short_path=665e842" title="Aftereffects" alt="Ae" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Ai" width="40" height="40"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg" title="kakas" alt="Pr" width="40" height="40"/>&nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg" title="Premiere" alt="Pr" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Ps" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Cn" width="40" height="40"/>&nbsp;
      
