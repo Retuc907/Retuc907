@@ -47,5 +47,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Retuc907&theme=merko&hide_border=true)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Retuc907&hide_progress=true)
 
 
