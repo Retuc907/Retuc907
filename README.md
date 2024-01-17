@@ -1,4 +1,4 @@
-<h1 align="center">¡Hi!, I'm Santiago Bonilla! </h1>
+ <h1 align="center">¡Hi!, I'm Santiago Bonilla! </h1>
 
 <div id="header" align="center>
  
@@ -34,11 +34,17 @@
     <div>
           <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="PY" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-          
+          <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="PY" width="40" height="40"/>&nbsp;
 
 
 
 
  
 </div>
+---
+
+### Github Stats: 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=retuc907&theme=city-lights&border_radius=4.6)](https://git.io/streak-stats)
+
 
