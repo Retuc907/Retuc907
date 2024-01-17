@@ -46,5 +46,6 @@
 ### Github Stats: 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=retuc907&theme=city-lights&border_radius=4.6)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
 
