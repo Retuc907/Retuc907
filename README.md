@@ -46,8 +46,8 @@
 
 ### Github Stats: 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Retuc907&theme=default&hide_border=true)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Retuc907)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
