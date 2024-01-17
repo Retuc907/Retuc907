@@ -26,25 +26,7 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg" title="Premiere" alt="Pr" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Ps" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Cn" width="40" height="40"/>&nbsp;
-     <html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Cuadrado Blanco</title>
-  <style>
-    /* Aplicar estilos al cuadrado */
-    .cuadrado {
-      width: 40px;
-      height: 40px;
-      background-color: white;
-    }
-  </style>
-</head>
-<body>
-  <!-- Elemento de bloque (div) para el cuadrado blanco -->
-  <div class="cuadrado"></div>
-</body>
-</html>
+
   
 
   <div align="left">
